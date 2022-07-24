@@ -1,0 +1,1 @@
+Minimal NumPy implementation of multi-process dataloaders based on https://teddykoker.com/2020/12/dataloader/.
